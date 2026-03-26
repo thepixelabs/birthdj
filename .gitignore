@@ -1,0 +1,43 @@
+# Secrets
+.env
+
+# Spotify auth cache
+.cache
+
+# App data (user-specific)
+song_history.json
+settings.json
+reference_playlist.json
+
+# User customizations (examples shipped as .example files)
+master_prompt.md
+blocked_artists.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Linter cache
+.ruff_cache/
+
+# Internal docs
+docs/
+
+# Claude Code
+.claude/
