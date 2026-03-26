@@ -1,0 +1,8 @@
+# Blocked Artists
+# Add one artist per line (Hebrew or English name).
+# Songs by these artists will NEVER be included in any playlist,
+# regardless of what the master prompt or mood rules say.
+#
+# Examples:
+# Nickelback
+# Chris Brown
