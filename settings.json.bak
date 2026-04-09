@@ -1,0 +1,52 @@
+{
+  "tracks_per_block": {
+    "block_1": 32,
+    "block_2": 35,
+    "block_3": 40,
+    "block_4": 35,
+    "block_5": 18
+  },
+  "psytrance_enabled": true,
+  "psytrance_count": {
+    "block_3": 15,
+    "block_4": 8
+  },
+  "schedule": [
+    {
+      "start": "20:00",
+      "end": "22:00",
+      "type": "chill"
+    },
+    {
+      "start": "22:00",
+      "end": "00:00",
+      "type": "singalong"
+    },
+    {
+      "start": "00:00",
+      "end": "02:00",
+      "type": "dance"
+    },
+    {
+      "start": "02:00",
+      "end": "04:00",
+      "type": "groove"
+    },
+    {
+      "start": "04:00",
+      "end": "05:00",
+      "type": "sunrise"
+    }
+  ],
+  "tracks_per_hour": 1,
+  "total_tracks": null,
+  "psytrance_pct": 70,
+  "reference_playlist_url": "https://open.spotify.com/playlist/2nEoD4m5rPuAHCnuLm00cd?si=e11be74d23e64bb3",
+  "mood_rules": "",
+  "gemini_model": "gemini-3.1-pro-preview",
+  "allow_repeats": true,
+  "offer_split_after_full": true,
+  "shuffle_within_blocks": true,
+  "split_extra_pct": 30,
+  "playlist_prefix": "Netz Bday"
+}
